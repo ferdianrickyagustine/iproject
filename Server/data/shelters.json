@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Happy Paws Shelter",
+      "location": "123 Happy St, Springfield, IL",
+      "phone": "555-123-4567",
+      "email": "contact@happypawsshelter.com"
+    },
+    {
+      "name": "Safe Haven Animal Shelter",
+      "location": "456 Safe Rd, Rivertown, TX",
+      "phone": "555-234-5678",
+      "email": "info@safehavenpets.org"
+    },
+    {
+      "name": "Animal Rescue Center",
+      "location": "789 Rescue Ave, Metropolis, NY",
+      "phone": "555-345-6789",
+      "email": "support@animalrescuecenter.org"
+    },
+    {
+      "name": "Paws & Claws Shelter",
+      "location": "321 Paws Blvd, Beach City, FL",
+      "phone": "555-456-7890",
+      "email": "pawsclaws@shelter.org"
+    },
+    {
+      "name": "The Pet Refuge",
+      "location": "654 Refuge Rd, Greenfield, CA",
+      "phone": "555-567-8901",
+      "email": "contact@thepetrefuge.org"
+    }
+  ]
+  

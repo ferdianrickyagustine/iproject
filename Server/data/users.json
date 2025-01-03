@@ -1,0 +1,42 @@
+[
+  {
+    "username": "adminUser",
+    "email": "admin@example.com",
+    "password": "adminPass123",
+    "phoneNumber": "123-456-7890",
+    "role": "Admin",
+    "shelterId": 1
+  },
+  {
+    "username": "regularUser1",
+    "email": "user1@example.com",
+    "password": "userPass123",
+    "phoneNumber": "987-654-3210",
+    "role": "User",
+    "shelterId": null 
+  },
+  {
+    "username": "regularUser2",
+    "email": "user2@example.com",
+    "password": "userPass456",
+    "phoneNumber": "456-789-0123",
+    "role": "User",
+    "shelterId": null
+  },
+  {
+    "username": "admin2",
+    "email": "admin2@example.com",
+    "password": "adminPass456",
+    "phoneNumber": "321-654-9870",
+    "role": "Admin",
+    "shelterId": 2
+  },
+  {
+    "username": "regularUser3",
+    "email": "user3@example.com",
+    "password": "userPass789",
+    "phoneNumber": "654-321-0987",
+    "role": "User",
+    "shelterId": null
+  }
+]

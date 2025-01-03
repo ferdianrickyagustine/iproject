@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Max",
+      "age": 4,
+      "breed": "Golden Retriever",
+      "description": "Max is a friendly and energetic dog who loves to play fetch. He is very affectionate and gets along with other dogs.",
+      "imageUrl": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
+      "speciesId": 1,
+      "shelterId": 1,
+      "userId": null
+    },
+    {
+      "name": "Whiskers",
+      "age": 2,
+      "breed": "Siamese",
+      "description": "Whiskers is a curious and independent cat. She enjoys climbing high places and is known for her stunning blue eyes.",
+      "imageUrl": "https://img.freepik.com/premium-photo/white-cat-with-blue-eyes-sits-blue-background_854727-528.jpg",
+      "speciesId": 2,
+      "shelterId": 1,
+      "userId": null
+    },
+    {
+      "name": "Fluffy",
+      "age": 1,
+      "breed": "Holland Lop",
+      "description": "Fluffy is a calm and cuddly rabbit who enjoys being petted. She is very friendly and easy to handle.",
+      "imageUrl": "https://static4.depositphotos.com/1000459/302/i/450/depositphotos_3024751-stock-photo-small-rabbit.jpg",
+      "speciesId": 3,
+      "shelterId": 2,
+      "userId": null
+    },
+    {
+      "name": "Buddy",
+      "age": 6,
+      "breed": "Beagle",
+      "description": "Buddy is a loyal and gentle dog who enjoys long walks and sniffing around. He is very affectionate and great with families.",
+      "imageUrl": "https://m.media-amazon.com/images/I/714agMEXUUL.jpg",
+      "speciesId": 1,
+      "shelterId": 2,
+      "userId": null
+    },
+    {
+      "name": "Luna",
+      "age": 3,
+      "breed": "Maine Coon",
+      "description": "Luna is a playful and social cat with a love for water. She enjoys cuddling and playing with toys.",
+      "imageUrl": "https://images.ctfassets.net/scac5p2hkp4h/39sEkFrCfR9wOjnQVcRCBU/ff7b22da104329b223329695ee7d8b4b/MaineCoon_inline.jpg",
+      "speciesId": 2,
+      "shelterId": 2,
+      "userId": null
+    }
+  ]
+  
